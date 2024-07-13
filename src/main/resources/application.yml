@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-security
+  security:
+    user:
+      name: foo
+      password: foo
+server:
+  port: 8088
+
+
